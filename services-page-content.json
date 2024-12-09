@@ -1,42 +1,42 @@
 [
   {
     "header": "Dissertation - Any Subject",
-    "body": "<p>Crafting a dissertation can be daunting, but with <strong>Tweetor</strong>, you’re never alone. Our expert team provides personalized support across a wide range of subjects, helping you create a compelling, well-researched dissertation that meets academic standards.</p><p>From topic selection to final submission, we ensure every detail aligns with your requirements and university guidelines. With a focus on originality and precision, we deliver work that is impactful and plagiarism-free.</p><p>Choose <strong>Tweetor</strong> to make your dissertation journey smooth and successful!</p>"
+    "body": "<p>Crafting a dissertation can be daunting, but with <strong>{{app_name}}</strong>, you’re never alone. Our expert team provides personalized support across a wide range of subjects, helping you create a compelling, well-researched dissertation that meets academic standards.</p><p>From topic selection to final submission, we ensure every detail aligns with your requirements and university guidelines. With a focus on originality and precision, we deliver work that is impactful and plagiarism-free.</p><p>Choose <strong>{{app_name}}</strong> to make your dissertation journey smooth and successful!</p>"
   },
   {
     "header": "Research Paper Writing - Any Subject",
-    "body": "<p>Writing a research paper can be overwhelming, but <strong>Tweetor</strong> is here to help. Our experts provide comprehensive support for all subjects, ensuring your research is well-structured, thoroughly analyzed, and impactful. Let us help you deliver an outstanding research paper that meets the highest academic standards.</p>"
+    "body": "<p>Writing a research paper can be overwhelming, but <strong>{{app_name}}</strong> is here to help. Our experts provide comprehensive support for all subjects, ensuring your research is well-structured, thoroughly analyzed, and impactful. Let us help you deliver an outstanding research paper that meets the highest academic standards.</p>"
   },
   {
     "header": "Lab Report - Any Subject",
-    "body": "<p>Struggling with lab reports? <strong>Tweetor</strong> offers specialized assistance to help you document your experiments with precision. Whether it’s Physics, Chemistry, Biology, or any other subject, we ensure your reports are detailed, accurate, and professionally written.</p>"
+    "body": "<p>Struggling with lab reports? <strong>{{app_name}}</strong> offers specialized assistance to help you document your experiments with precision. Whether it’s Physics, Chemistry, Biology, or any other subject, we ensure your reports are detailed, accurate, and professionally written.</p>"
   },
   {
     "header": "Presentation Writing Service - Any Subject",
-    "body": "<p>Impress your audience with captivating presentations created by <strong>Tweetor</strong>. Our team crafts engaging slides and compelling content for any subject, ensuring your ideas are delivered with clarity and impact. Perfect for academic and professional settings.</p>"
+    "body": "<p>Impress your audience with captivating presentations created by <strong>{{app_name}}</strong>. Our team crafts engaging slides and compelling content for any subject, ensuring your ideas are delivered with clarity and impact. Perfect for academic and professional settings.</p>"
   },
   {
     "header": "Do My Assignment - Any Subject",
-    "body": "<p>Overwhelmed with assignments? <strong>Tweetor</strong> has you covered! Our experts provide reliable assistance for any subject, delivering high-quality work tailored to your needs. Get your assignments done on time without the stress.</p>"
+    "body": "<p>Overwhelmed with assignments? <strong>{{app_name}}</strong> has you covered! Our experts provide reliable assistance for any subject, delivering high-quality work tailored to your needs. Get your assignments done on time without the stress.</p>"
   },
   {
     "header": "Do My Homework - Any Subject",
-    "body": "<p>Need help with homework? <strong>Tweetor</strong> is your trusted partner. We ensure every homework task is accurate, well-researched, and completed on time, no matter the subject or complexity. Focus on learning while we handle the rest!</p>"
+    "body": "<p>Need help with homework? <strong>{{app_name}}</strong> is your trusted partner. We ensure every homework task is accurate, well-researched, and completed on time, no matter the subject or complexity. Focus on learning while we handle the rest!</p>"
   },
   {
     "header": "Help Me with Final Year Project - Any Subject",
-    "body": "<p>Make your final year project a success with <strong>Tweetor</strong>. Our experts provide end-to-end support, from idea development to execution, ensuring your project showcases innovation and academic excellence. Whatever the subject, we’re here to guide you.</p>"
+    "body": "<p>Make your final year project a success with <strong>{{app_name}}</strong>. Our experts provide end-to-end support, from idea development to execution, ensuring your project showcases innovation and academic excellence. Whatever the subject, we’re here to guide you.</p>"
   },
   {
     "header": "Let’s Research - Any Subject",
-    "body": "<p>Kickstart your research journey with <strong>Tweetor</strong>. Whether it’s academic or professional, our team offers expert guidance in exploring topics, gathering insights, and presenting findings. Unlock the potential of great research with our help.</p>"
+    "body": "<p>Kickstart your research journey with <strong>{{app_name}}</strong>. Whether it’s academic or professional, our team offers expert guidance in exploring topics, gathering insights, and presenting findings. Unlock the potential of great research with our help.</p>"
   },
   {
     "header": "Online Assignment - Any Subject",
-    "body": "<p>Struggling with online assignments? <strong>Tweetor</strong> ensures timely and accurate solutions for all subjects. We tailor each assignment to your requirements, helping you stay ahead in your academic journey.</p>"
+    "body": "<p>Struggling with online assignments? <strong>{{app_name}}</strong> ensures timely and accurate solutions for all subjects. We tailor each assignment to your requirements, helping you stay ahead in your academic journey.</p>"
   },
   {
     "header": "Online Tutoring - Any Subject",
-    "body": "<p>Enhance your learning experience with <strong>Tweetor</strong>'s online tutoring services. Our experienced tutors provide personalized support for any subject, helping you grasp concepts, improve skills, and achieve academic success.</p>"
+    "body": "<p>Enhance your learning experience with <strong>{{app_name}}</strong>'s online tutoring services. Our experienced tutors provide personalized support for any subject, helping you grasp concepts, improve skills, and achieve academic success.</p>"
   }
 ]
