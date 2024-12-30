@@ -1,15 +1,8 @@
 [
   {
-    "name": "Canada",
-    "dialCode": "+1",
-    "flag": "🇨🇦",
-    "code": "CA",
-    "isUse" : false
-  },
-  {
     "name": "United States",
     "dialCode": "+1",
-    "flag": "🇺🇸",
+    "flag": "🇺🇸/🇨🇦",
     "code": "US"
   },
   {
