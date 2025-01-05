@@ -38,5 +38,9 @@
   {
     "header": "Online Tutoring - Any Subject",
     "body": "<p>Enhance your learning experience with <strong>{{app_name}}</strong>'s online tutoring services. Our experienced tutors provide personalized support for any subject, helping you grasp concepts, improve skills, and achieve academic success.</p>"
+  },
+  {
+  "header": "Other Services",
+  "body": "<p>Beyond our core offerings, <strong>{{app_name}}</strong> provides a range of specialized services tailored to meet your unique academic and professional needs.</p><p>Whether you require assistance with case studies, presentations, or niche projects, our expert team is here to help. We focus on delivering quality, originality, and results that exceed expectations.</p><p>Explore <strong>{{app_name}}</strong> to discover how our additional services can support your goals and elevate your work to the next level!</p>"
   }
 ]
