@@ -1,0 +1,46 @@
+[
+  {
+    "header": "Dissertation - Any Subject",
+    "body": "<div>Crafting a dissertation can be tough, but with <strong>{{app_name}}</strong>, you’ll get expert guidance at every step, from topic selection to submission, ensuring top-quality, plagiarism-free work that follows all academic standards.</div>"
+  },
+  {
+    "header": "Research Paper Writing - Any Subject",
+    "body": "<div>Let <strong>{{app_name}}</strong> make your research paper stand out with clear, structured, and thoroughly researched content that meets the highest academic standards.</div>"
+  },
+  {
+    "header": "Lab Report - Any Subject",
+    "body": "<div>Need help with your lab report? <strong>{{app_name}}</strong> ensures precise, accurate, and professional reports for all subjects like Physics, Chemistry, Biology, and more.</div>"
+  },
+  {
+    "header": "Presentation Writing Service - Any Subject",
+    "body": "<div>Impress your audience with engaging presentations from <strong>{{app_name}}</strong>, where we deliver clear, impactful slides and content for any subject.</div>"
+  },
+  {
+    "header": "Do My Assignment - Any Subject",
+    "body": "<div>Stressed about assignments? <strong>{{app_name}}</strong> has you covered with expert help, delivering high-quality, tailored assignments on time, every time.</div>"
+  },
+  {
+    "header": "Do My Homework - Any Subject",
+    "body": "<div>Let <strong>{{app_name}}</strong> take care of your homework, providing accurate, well-researched solutions so you can focus on learning, no matter the subject.</div>"
+  },
+  {
+    "header": "Help Me with Final Year Project - Any Subject",
+    "body": "<div>Make your final year project a success with <strong>{{app_name}}</strong>. We guide you from idea to execution, ensuring innovation and excellence in your work.</div>"
+  },
+  {
+    "header": "Let’s Research - Any Subject",
+    "body": "<div>Start your research with confidence! <strong>{{app_name}}</strong> helps you explore topics, gather insights, and present findings that truly shine.</div>"
+  },
+  {
+    "header": "Online Assignment - Any Subject",
+    "body": "<div>Stuck with online assignments? <strong>{{app_name}}</strong> provides timely, tailored solutions that help you stay on top of your academic game.</div>"
+  },
+  {
+    "header": "Online Tutoring - Any Subject",
+    "body": "<div>Boost your learning with <strong>{{app_name}}</strong>'s online tutoring services. Get personalized support in any subject to master concepts and ace your exams.</div>"
+  },
+  {
+    "header": "Other Services",
+    "body": "<div>Looking for more? <strong>{{app_name}}</strong> offers a variety of specialized services for case studies, presentations, and more, ensuring top-quality, results-driven support for your academic and professional goals.</div>"
+  }
+]
