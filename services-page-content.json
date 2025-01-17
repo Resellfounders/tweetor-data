@@ -1,18 +1,18 @@
 [
   {
-    "header": "Assignment Help for Bachelors, Masters or Phd",
+    "header": "Assignment Help ( Bachelors, Masters or Phd )",
     "body": "Struggling with coursework, lab work, or academic papers? <strong style={{ color: '#014d40' }}>{{app_name}}</strong> provides expert support for Bachelor's, Master's, and PhD students, ensuring quality and timely delivery."
   },
   {
-    "header": "Programming Help for Java, Python, DevOps, Cloud, ML & AI",
+    "header": "Programming Help",
     "body": "Need programming assistance? <strong style={{ color: '#014d40' }}>{{app_name}}</strong> offers reliable solutions for Java, Python, DevOps, Cloud, Machine Learning, and AI tasks and any technology projects."
   },
   {
-    "header": "Resume & SOP Writing for Study Abroad",
+    "header": "Resume & SOP Writing",
     "body": "Ace your university applications with <strong style={{ color: '#014d40' }}>{{app_name}}</strong>. Get professional resumes, SOPs, and admission guidance tailored for foreign students."
   },
   {
-    "header": "Final Year or Semester Project Support",
+    "header": "Final Year or Semester Project Help",
     "body": "Make your final year project a success with <strong style={{ color: '#014d40' }}>{{app_name}}</strong>. From concept to execution, we ensure innovation and excellence in your work."
   },
   {
@@ -24,7 +24,7 @@
     "body": "Let <strong style={{ color: '#014d40' }}>{{app_name}}</strong> assist you with research papers, dissertations, and theses. We provide plagiarism-free, top-quality work tailored to academic standards."
   },
   {
-    "header": "Coding Assignment Assistance",
+    "header": "Coding Assignment Help",
     "body": "Stuck with coding assignments? <strong style={{ color: '#014d40' }}>{{app_name}}</strong> offers expert help for Bachelor's, Master's, and PhD students abroad, covering all programming needs."
   },
   {
