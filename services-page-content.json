@@ -1,43 +1,32 @@
 [
+  [
   {
-    "header": "Dissertation - Any Subject",
-    "body": "Crafting a dissertation can be tough, but with <strong style={{ color: '#014d40' }}>{{app_name}}</strong>, you’ll get expert guidance at every step, from topic selection to submission, ensuring top-quality, plagiarism-free work that follows all academic standards."
+    "header": "Assignment Help for Bachelors, Masters or Phd",
+    "body": "Struggling with coursework, lab work, or academic papers? <strong style={{ color: '#014d40' }}>{{app_name}}</strong> provides expert support for Bachelor's, Master's, and PhD students, ensuring quality and timely delivery."
   },
   {
-    "header": "Research Paper Writing - Any Subject",
-    "body": "Let <strong style={{ color: '#014d40' }}>{{app_name}}</strong> make your research paper stand out with clear, structured, and thoroughly researched content that meets the highest academic standards."
+    "header": "Programming Help for Java, Python, DevOps, Cloud, ML & AI",
+    "body": "Need programming assistance? <strong style={{ color: '#014d40' }}>{{app_name}}</strong> offers reliable solutions for Java, Python, DevOps, Cloud, Machine Learning, and AI tasks and any technology projects."
   },
   {
-    "header": "Lab Report - Any Subject",
-    "body": "Need help with your lab report? <strong style={{ color: '#014d40' }}>{{app_name}}</strong> ensures precise, accurate, and professional reports for all subjects like Physics, Chemistry, Biology, and more."
+    "header": "Resume & SOP Writing for Study Abroad",
+    "body": "Ace your university applications with <strong style={{ color: '#014d40' }}>{{app_name}}</strong>. Get professional resumes, SOPs, and admission guidance tailored for foreign students."
   },
   {
-    "header": "Presentation Writing Service - Any Subject",
-    "body": "Impress your audience with engaging presentations from <strong style={{ color: '#014d40' }}>{{app_name}}</strong>, where we deliver clear, impactful slides and content for any subject."
+    "header": "Final Year or Semester Project Support",
+    "body": "Make your final year project a success with <strong style={{ color: '#014d40' }}>{{app_name}}</strong>. From concept to execution, we ensure innovation and excellence in your work."
   },
   {
-    "header": "Do My Assignment - Any Subject",
-    "body": "Stressed about assignments? <strong style={{ color: '#014d40' }}>{{app_name}}</strong> has you covered with expert help, delivering high-quality, tailored assignments on time, every time."
+    "header": "Research Paper Help",
+    "body": "Let <strong style={{ color: '#014d40' }}>{{app_name}}</strong> assist you with research papers, dissertations, and theses. We provide plagiarism-free, top-quality work tailored to academic standards."
   },
   {
-    "header": "Do My Homework - Any Subject",
-    "body": "Let <strong style={{ color: '#014d40' }}>{{app_name}}</strong> take care of your homework, providing accurate, well-researched solutions so you can focus on learning, no matter the subject."
+    "header": "Dissertation & Thesis Help",
+    "body": "Let <strong style={{ color: '#014d40' }}>{{app_name}}</strong> assist you with research papers, dissertations, and theses. We provide plagiarism-free, top-quality work tailored to academic standards."
   },
   {
-    "header": "Help Me with Final Year Project - Any Subject",
-    "body": "Make your final year project a success with <strong style={{ color: '#014d40' }}>{{app_name}}</strong>. We guide you from idea to execution, ensuring innovation and excellence in your work."
-  },
-  {
-    "header": "Let’s Research - Any Subject",
-    "body": "Start your research with confidence! <strong style={{ color: '#014d40' }}>{{app_name}}</strong> helps you explore topics, gather insights, and present findings that truly shine."
-  },
-  {
-    "header": "Online Assignment - Any Subject",
-    "body": "Stuck with online assignments? <strong style={{ color: '#014d40' }}>{{app_name}}</strong> provides timely, tailored solutions that help you stay on top of your academic game."
-  },
-  {
-    "header": "Online Tutoring - Any Subject",
-    "body": "Boost your learning with <strong style={{ color: '#014d40' }}>{{app_name}}</strong>'s online tutoring services. Get personalized support in any subject to master concepts and ace your exams."
+    "header": "Coding Assignment Assistance",
+    "body": "Stuck with coding assignments? <strong style={{ color: '#014d40' }}>{{app_name}}</strong> offers expert help for Bachelor's, Master's, and PhD students abroad, covering all programming needs."
   },
   {
     "header": "Other Services",
