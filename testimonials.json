@@ -1,62 +1,62 @@
 [
   {
-    "name": "Sophia Carter",
-    "comment": "<p>Outstanding support! My assignment was delivered on time with great quality. The team ensured I understood every step and even broke down complex problems for me. My professor praised the work, and I couldn’t be happier. I’ll definitely use their services again!</p>",
+    "name": "Emily Foster",
+    "comment": "<p>I needed help with my coursework for my master’s degree, and their support was phenomenal. The team explained every part of the labwork in detail and ensured my paper was formatted perfectly. Thanks to them, I scored an A and understood the concepts better.</p>",
     "rating": 5,
     "datedOn": "2024-07-15"
   },
   {
-    "name": "James Bennett",
-    "comment": "<p>Thanks to their help, I got an A+ on my project! The step-by-step approach made everything easy to follow, and they went above and beyond to ensure it was perfect. Highly recommend Assignment Bros to any student needing reliable support.</p>",
+    "name": "Ryan Adams",
+    "comment": "<p>Their assistance with my programming task in Python and DevOps was a game-changer. The step-by-step guidance helped me grasp tricky concepts like cloud deployment, and the task was submitted ahead of time. Highly recommend them for anyone struggling with coding assignments.</p>",
     "rating": 5,
     "datedOn": "2024-06-10"
   },
   {
-    "name": "Olivia Martinez",
-    "comment": "<p>Incredible service! They helped me tackle tough problems and made sure I understood everything. Their clear explanations and patience were amazing. I got a great score and feel more confident handling assignments now. Highly recommend them!</p>",
-    "rating": 4.8,
+    "name": "Akira Takahashi",
+    "comment": "<p>As an international student applying for foreign universities, I found their resume and SOP writing service incredibly helpful. They tailored my application to highlight my strengths and provided expert advice that made my submission stand out. I got admitted to my dream university!</p>",
+    "rating": 4.9,
     "datedOn": "2024-06-08"
   },
   {
-    "name": "Ethan Smith",
-    "comment": "<p>Assignment Bros saved me from a tight deadline! They delivered fast, explained the solutions clearly, and gave tips to improve my skills. I scored top marks and had a stress-free experience. Fantastic support!</p>",
-    "rating": 4.9,
-    "datedOn": "2024-08-21"
-  },
-  {
-    "name": "Isabella Johnson",
-    "comment": "<p>Professional and timely! They delivered excellent work ahead of schedule, with clear explanations and great formatting. My professor was impressed, and I was thrilled with the result. I’ll be using their services again for sure!</p>",
+    "name": "Priya Sharma",
+    "comment": "<p>For my final-year project, their guidance was invaluable. They helped me choose a topic, structure the project, and even reviewed my code. The feedback I received was insightful, and my professors appreciated the effort put into the project. Thank you for making it stress-free!</p>",
     "rating": 5,
     "datedOn": "2024-10-14"
   },
   {
     "name": "Liam Wilson",
-    "comment": "<p>Top-notch work! Their explanations were clear, and the formatting was flawless. They answered all my questions and even gave tips to improve my understanding. Highly recommend their services to any student in need!</p>",
-    "rating": 4.7,
+    "comment": "<p>Writing a dissertation for my PhD felt overwhelming, but their team broke it into manageable parts. They helped with research, formatting, and editing, and their feedback improved my paper immensely. The service exceeded my expectations!</p>",
+    "rating": 4.8,
     "datedOn": "2024-10-18"
   },
   {
-    "name": "Mia Davis",
-    "comment": "<p>Assignment Bros was a lifesaver! Their step-by-step guidance and flawless delivery helped me score higher than I expected. The team was supportive and made the process stress-free. Thank you for the amazing service!</p>",
+    "name": "Sophia Martin",
+    "comment": "<p>As a bachelor’s student in a foreign university, I was struggling with coding assignments in Java. Their solutions were detailed and easy to follow, and I scored higher than I expected. I’ll definitely use their service again for future assignments.</p>",
     "rating": 5,
     "datedOn": "2024-11-03"
   },
   {
-    "name": "William Brown",
-    "comment": "<p>Exceptional service! They explained everything clearly and delivered quality work on time. My professor loved it, and I felt more confident in my subject. Highly recommend Assignment Bros for any academic help.</p>",
+    "name": "Dylan Thompson",
+    "comment": "<p>Their help with my research paper for my master's program was fantastic. They guided me on structuring the arguments, finding credible sources, and formatting the paper according to university standards. The final submission was flawless, and I received excellent feedback!</p>",
     "rating": 4.9,
     "datedOn": "2024-09-22"
   },
   {
-    "name": "Emily White",
-    "comment": "<p>Fantastic support! They made complex concepts easy to understand and delivered everything on time. I got a perfect grade, and my professor was impressed. Assignment Bros is my go-to for academic help now!</p>",
+    "name": "Amelia Johnson",
+    "comment": "<p>I was stuck on a machine learning project and reached out to them for support. They provided practical examples, explained the algorithms clearly, and even helped me debug my code. The project turned out great, and I felt confident presenting it in class.</p>",
     "rating": 5,
     "datedOn": "2024-09-10"
   },
   {
     "name": "Lucas Green",
-    "comment": "<p>Outstanding support! They clarified my doubts and delivered detailed solutions. My professor praised my work, and I got a great grade. I’m so grateful for their help and highly recommend them!</p>",
-    "rating": 4.8,
+    "comment": "<p>Their team assisted me with my final-year thesis, and their support was incredible. From helping me refine my topic to reviewing the final draft, they made the entire process so much easier. I’m thrilled with the grade I received and highly recommend them!</p>",
+    "rating": 4.9,
     "datedOn": "2024-10-06"
+  },
+  {
+    "name": "Sophia Carter",
+    "comment": "<p>I reached out for help with my coding assignment in cloud computing, and the results were outstanding. They not only solved the problem but also explained the logic in a way that improved my understanding. Their expertise made a big difference.</p>",
+    "rating": 5,
+    "datedOn": "2024-07-20"
   }
 ]
