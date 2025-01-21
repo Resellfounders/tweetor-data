@@ -1,34 +1,34 @@
 [
   {
-    "header": "Assignment Help ( Bachelors, Masters or Phd )",
+    "header": "Assignment Support",
     "body": "Struggling with coursework, lab work, or academic papers? <strong style={{ color: '#014d40' }}>{{app_name}}</strong> provides expert support for Bachelor's, Master's, and PhD students, ensuring quality and timely delivery."
   },
   {
-    "header": "Programming Help",
+    "header": "Programming Support",
     "body": "Need programming assistance? <strong style={{ color: '#014d40' }}>{{app_name}}</strong> offers reliable solutions for Java, Python, DevOps, Cloud, Machine Learning, and AI tasks and any technology projects."
   },
   {
-    "header": "Resume & SOP Writing",
+    "header": "Writing Support",
     "body": "Ace your university applications with <strong style={{ color: '#014d40' }}>{{app_name}}</strong>. Get professional resumes, SOPs, and admission guidance tailored for foreign students."
   },
   {
-    "header": "Final Year or Semester Project Help",
+    "header": "Project Support",
     "body": "Make your final year project a success with <strong style={{ color: '#014d40' }}>{{app_name}}</strong>. From concept to execution, we ensure innovation and excellence in your work."
   },
   {
-    "header": "Research Paper Help",
+    "header": "Research Support",
     "body": "Let <strong style={{ color: '#014d40' }}>{{app_name}}</strong> assist you with research papers, dissertations, and theses. We provide plagiarism-free, top-quality work tailored to academic standards."
   },
   {
-    "header": "Dissertation & Thesis Help",
+    "header": "Thesis Support",
     "body": "Let <strong style={{ color: '#014d40' }}>{{app_name}}</strong> assist you with research papers, dissertations, and theses. We provide plagiarism-free, top-quality work tailored to academic standards."
   },
   {
-    "header": "Coding Assignment Help",
+    "header": "Coding Support",
     "body": "Stuck with coding assignments? <strong style={{ color: '#014d40' }}>{{app_name}}</strong> offers expert help for Bachelor's, Master's, and PhD students abroad, covering all programming needs."
   },
   {
-    "header": "Other Services",
+    "header": "Other Support",
     "body": "Looking for more? <strong style={{ color: '#014d40' }}>{{app_name}}</strong> offers a variety of specialized services for case studies, presentations, and more, ensuring top-quality, results-driven support for your academic and professional goals."
   }
 ]
