@@ -1,4 +1,8 @@
 [
+   {
+    "header": "Assignment Help",
+    "body": "Need assignment assistance? <strong style={{ color: '#014d40' }}>{{app_name}}</strong> offers relaible support for your homework, courswork and assignments."
+  },
   {
     "header": "Programming Support",
     "body": "Need programming assistance? <strong style={{ color: '#014d40' }}>{{app_name}}</strong> offers reliable solutions for Java, Python, DevOps, Cloud, Machine Learning, and AI tasks and any technology projects."
